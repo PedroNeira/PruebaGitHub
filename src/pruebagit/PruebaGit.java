@@ -18,7 +18,7 @@ public class PruebaGit {
         // TODO code application logic here
         
         System.out.println("hola mundo cruel");
-        System.out.println("feo hp");
+        
     }
     
 }
